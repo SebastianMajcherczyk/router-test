@@ -7,6 +7,7 @@ export const App = () => {
 			<p>Something to display</p>
 			<p>Something</p> 
 			<Content2/>
+			<h2>Test PA-3</h2>
 		</div>
 	);
 };
